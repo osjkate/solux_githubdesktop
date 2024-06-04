@@ -2,4 +2,5 @@
 
 제 이름은 오수진입니다!
 Hello World!    // branch_2의 변경사항입니다.
+Hello!  // branch_1의 변경사항입니다. 
 Hi  // branch_2의 두 번째 변경사항입니다.
